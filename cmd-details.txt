@@ -1,0 +1,2 @@
+git init ----> To initialize the new git repository on local machine
+git remote -v	--> To check which remote repository is mapped to this local repository
